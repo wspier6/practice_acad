@@ -1,0 +1,25 @@
+h1 {
+    background-image: url("images/pattern.jpeg");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+figcaption{
+    font-weight: bold;
+}
+
+#highlight {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
